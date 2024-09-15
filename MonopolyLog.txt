@@ -1,0 +1,573 @@
+13:22:53	Started a game with BroDvd, a Person with Aggressive personality type; Lindsay, a Computer with Complex personality type; Anne Marie, a Computer with Basic personality type; and Don, a Computer with Basic personality type.
+13:23:00	BroDvd rolled a 4, and moved to Income Tax
+13:23:00	Ten percent of BroDvd's income is 150 so they owe that
+13:23:06	Lindsay rolled a 5, and moved to Reading Railroad
+13:23:06	Nobody owns this railroad
+13:23:06	Lindsay can purchase Reading Railroad for $200
+13:23:06	Lindsay purchased Reading Railroad for $200
+13:23:08	Anne Marie rolled a 6, and moved to Oriental Avenue
+13:23:08	Anne Marie can purchase Oriental Avenue for $100
+13:23:11	Don rolled a 8, and moved to Vermont Avenue
+13:23:11	Don can purchase Vermont Avenue for $100
+13:23:11	Don purchased Vermont Avenue for $100
+13:25:06	BroDvd rolled a 9, and moved to States Avenue
+13:25:06	BroDvd can purchase States Avenue for $140
+13:25:09	BroDvd purchased States Avenue for $140
+13:25:11	Lindsay rolled a 6, and moved to St. Charles Place
+13:25:11	Lindsay can purchase St. Charles Place for $140
+13:25:11	Lindsay purchased St. Charles Place for $140
+13:25:14	Anne Marie rolled a 11, and moved to Community Chest
+13:25:15	Anne Marie got a Community Chest card that said You Inherit $100
+13:25:17	Don rolled a 7, and moved to Pennsylvania Railroad
+13:25:17	Nobody owns this railroad
+13:25:17	Don can purchase Pennsylvania Railroad for $200
+13:25:21	BroDvd rolled a 8, and moved to Kentucky Avenue
+13:25:21	BroDvd can purchase Kentucky Avenue for $220
+13:25:24	BroDvd purchased Kentucky Avenue for $220
+13:25:24	BroDvd rolled doubles, and gets to roll again
+13:25:30	BroDvd rolled a 10, and moved to Pacific Avenue
+13:25:30	BroDvd can purchase Pacific Avenue for $300
+13:25:33	BroDvd purchased Pacific Avenue for $300
+13:25:35	Lindsay rolled a 6, and moved to Community Chest
+13:25:36	Lindsay got a Community Chest card that said Pay Hospital $100
+13:25:37	Anne Marie rolled a 2, and moved to New York Avenue
+13:25:37	Anne Marie can purchase New York Avenue for $200
+13:25:37	Anne Marie rolled doubles, and gets to roll again
+13:25:39	Anne Marie rolled a 8, and moved to Ventor Avenue
+13:25:39	Anne Marie can purchase Ventor Avenue for $260
+13:25:42	Don rolled a 7, and moved to Chance
+13:25:42	Don got a Chance card that said Advance to Nearest Utility
+13:25:44	Nobody owns 2 utility(s) and Don rolled a 7 so the total rent is 84
+13:25:44	Don can purchase Water Works for $150
+13:25:57	BroDvd rolled a 5, and moved to Chance
+13:25:57	BroDvd got a Chance card that said Bank Pays you Dividend of $50
+13:26:03	Lindsay rolled a 8, and moved to B&O Railroad
+13:26:04	Nobody owns this railroad
+13:26:04	Lindsay can purchase B&O Railroad for $200
+13:26:04	Lindsay purchased B&O Railroad for $200
+13:26:07	Anne Marie rolled a 9, and moved to Chance
+13:26:07	Anne Marie got a Chance card that said Take a Ride on the Reading Railroad
+13:26:07	Anne Marie got $200 for passing Go
+13:26:10	Lindsay owns 2 railroad(s) so the total rent is 100
+13:26:10	Anne Marie owes Lindsay $100 for rent
+13:26:13	Don rolled a 8, and moved to Chance
+13:26:13	Don got a Chance card that said Elected Chairman of Board Pay $50
+13:26:17	BroDvd rolled a 3, and moved to Boardwalk
+13:26:17	BroDvd can purchase Boardwalk for $400
+13:26:21	BroDvd purchased Boardwalk for $400
+13:26:23	Lindsay rolled a 6, and moved to Pacific Avenue
+13:26:23	Lindsay owes BroDvd $26 for rent
+13:26:25	Lindsay rolled doubles, and gets to roll again
+13:26:27	Lindsay rolled a 5, and moved to Chance
+13:26:27	Lindsay got a Chance card that said Advance to Go
+13:26:27	Lindsay got $200 for passing Go
+13:26:30	Anne Marie rolled a 8, and moved to States Avenue
+13:26:31	Anne Marie owes BroDvd $10 for rent
+13:26:34	Don rolled a 3, and moved to Boardwalk
+13:26:34	Don owes BroDvd $50 for rent
+13:26:39	BroDvd got $200 for passing Go
+13:26:41	BroDvd rolled a 8, and moved to Chance
+13:26:41	BroDvd got a Chance card that said Go Directly to Jail
+13:26:49	Lindsay rolled a 6, and moved to Oriental Avenue
+13:26:49	Lindsay can purchase Oriental Avenue for $100
+13:26:49	Lindsay purchased Oriental Avenue for $100
+13:26:49	Lindsay rolled doubles, and gets to roll again
+13:26:52	Lindsay rolled a 6, and moved to Electric Company
+13:26:52	Nobody owns 2 utility(s) and Lindsay rolled a 6 so the total rent is 72
+13:26:52	Lindsay can purchase Electric Company for $150
+13:26:53	Anne Marie rolled a 3, and moved to St. James Place
+13:26:53	Anne Marie can purchase St. James Place for $180
+13:26:54	Don got $200 for passing Go
+13:26:56	Don rolled a 8, and moved to Chance
+13:26:56	Don got a Chance card that said Advance to nearest Railroad
+13:26:58	Nobody owns this railroad
+13:26:58	Don can purchase Pennsylvania Railroad for $200
+19:05:36	Lindsay rolled a 6, and moved to Tennessee Avenue
+19:05:36	Lindsay can purchase Tennessee Avenue for $180
+19:05:36	Lindsay purchased Tennessee Avenue for $180
+19:05:39	Anne Marie rolled a 11, and moved to Ventor Avenue
+19:05:39	Anne Marie can purchase Ventor Avenue for $260
+19:05:39	Anne Marie purchased Ventor Avenue for $260
+19:05:41	Don rolled a 7, and moved to Chance
+19:05:42	Don got a Chance card that said Advance Token to Boardwalk
+19:05:45	Don owes BroDvd $50 for rent
+19:06:47	BroDvd paid $50 to get out of jail
+19:06:49	BroDvd rolled a 8, and moved to Tennessee Avenue
+19:06:50	BroDvd owes Lindsay $14 for rent
+19:06:51	BroDvd rolled doubles, and gets to roll again
+19:07:04	BroDvd rolled a 10, and moved to Water Works
+19:07:04	Nobody owns 2 utility(s) and BroDvd rolled a 10 so the total rent is 120
+19:07:04	BroDvd can purchase Water Works for $150
+19:07:07	BroDvd purchased Water Works for $150
+19:07:09	Lindsay rolled a 6, and moved to Illinois Avenue
+19:07:09	Lindsay can purchase Illinois Avenue for $240
+19:07:09	Lindsay purchased Illinois Avenue for $240
+19:07:11	Anne Marie rolled a 5, and moved to North Carolina Avenue
+19:07:11	Anne Marie can purchase North Carolina Avenue for $300
+19:07:11	Don got $200 for passing Go
+19:07:12	Don rolled a 5, and moved to Income Tax
+19:07:13	Ten percent of Don's income is 170 so they owe that
+19:07:28	BroDvd landed on the 'Go to Jail' space
+19:07:28	BroDvd rolled a 2, and moved to Jail
+19:07:31	Lindsay landed on the 'Go to Jail' space
+19:07:31	Lindsay rolled a 6, and moved to Jail
+19:07:32	Anne Marie got $200 for passing Go
+19:07:35	Anne Marie rolled a 9, and moved to Mediterranean Avenue
+19:07:36	Anne Marie can purchase Mediterranean Avenue for $60
+19:07:36	Anne Marie purchased Mediterranean Avenue for $60
+19:07:40	Don rolled a 8, and moved to Electric Company
+19:07:40	Nobody owns 1 utility(s) and Don rolled a 8 so the total rent is 32
+19:07:40	Don can purchase Electric Company for $150
+19:07:40	Don purchased Electric Company for $150
+19:07:40	Don rolled doubles, and gets to roll again
+19:07:44	Don rolled a 7, and moved to New York Avenue
+19:07:44	Don can purchase New York Avenue for $200
+19:07:44	Don purchased New York Avenue for $200
+19:12:21	BroDvd paid $50 to get out of jail
+19:12:24	BroDvd rolled a 7, and moved to Community Chest
+19:12:24	BroDvd got a Community Chest card that said From Sale of Stock You Get $45
+19:12:28	Lindsay paid $50 to get out of jail
+19:12:30	Lindsay rolled a 7, and moved to Community Chest
+19:12:30	Lindsay got a Community Chest card that said Income Tax Refund Collect $20
+19:12:33	Anne Marie rolled a 6, and moved to Chance
+19:12:33	Anne Marie got a Chance card that said Get Out of Jail Free
+19:12:35	Don rolled a 4, and moved to Indiana Avenue
+19:12:35	Don can purchase Indiana Avenue for $220
+19:12:35	Don purchased Indiana Avenue for $220
+19:12:38	BroDvd rolled a 3, and moved to Free Parking
+19:12:38	BroDvd gets $970 for landing on Free Parking
+19:12:48	Lindsay rolled a 5, and moved to Chance
+19:12:48	Lindsay got a Chance card that said Go Back 3 Spaces
+19:12:50	Lindsay owes Don $16 for rent
+19:12:52	Anne Marie rolled a 8, and moved to Pennsylvania Railroad
+19:12:53	Nobody owns this railroad
+19:12:53	Anne Marie can purchase Pennsylvania Railroad for $200
+19:12:53	Anne Marie purchased Pennsylvania Railroad for $200
+19:12:55	Don rolled a 6, and moved to Marvin Gardens
+19:12:55	Don can purchase Marvin Gardens for $280
+19:13:16	BroDvd rolled a 5, and moved to B&O Railroad
+19:13:16	Lindsay owns 2 railroad(s) so the total rent is 100
+19:13:16	BroDvd owes Lindsay $100 for rent
+19:13:22	Lindsay rolled a 8, and moved to Ventor Avenue
+19:13:22	Lindsay owes Anne Marie $22 for rent
+19:13:23	Anne Marie rolled a 2, and moved to Community Chest
+19:13:23	Anne Marie got a Community Chest card that said Life Insurance Matures Collect $100
+19:13:23	Anne Marie rolled doubles, and gets to roll again
+19:13:25	Anne Marie rolled a 5, and moved to Chance
+19:13:25	Anne Marie got a Chance card that said Make General Repairs on Your Property $25/house $100/hotel
+19:13:26	Don got $200 for passing Go
+19:13:28	Don rolled a 11, and moved to Go
+19:13:32	BroDvd rolled a 9, and moved to Pennsylvania Avenue
+19:13:33	BroDvd can purchase Pennsylvania Avenue for $320
+19:13:34	BroDvd purchased Pennsylvania Avenue for $320
+19:13:36	Lindsay rolled a 4, and moved to Pacific Avenue
+19:13:36	Lindsay owes BroDvd $26 for rent
+19:13:40	Anne Marie rolled a 7, and moved to Marvin Gardens
+19:13:40	Anne Marie can purchase Marvin Gardens for $280
+19:13:40	Anne Marie purchased Marvin Gardens for $280
+19:13:43	Don rolled a 10, and moved to Just Visiting
+19:13:43	Don rolled doubles, and gets to roll again
+19:13:45	Don rolled a 7, and moved to Community Chest
+19:13:46	Don got a Community Chest card that said Go to Jail
+20:42:14	BroDvd got $200 for passing Go
+20:42:15	BroDvd rolled a 9, and moved to Baltic Avenue
+20:42:16	BroDvd can purchase Baltic Avenue for $60
+20:42:18	BroDvd purchased Baltic Avenue for $60
+20:42:20	Lindsay rolled a 6, and moved to Park Place
+20:42:21	Lindsay can purchase Park Place for $350
+20:42:21	Lindsay purchased Park Place for $350
+20:42:21	Anne Marie suggested the following trade to BroDvd: Anne Marie is offering 0 properties () and $120 and Anne Marie wants to receive 1 properties (Baltic Avenue) and $0
+20:42:34	BroDvd did not accept the trade
+20:42:35	Anne Marie got $200 for passing Go
+20:42:38	Anne Marie rolled a 11, and moved to Go
+20:42:39	Don paid $50 to get out of jail
+20:42:42	Don rolled a 9, and moved to New York Avenue
+20:42:43	Don owns the property
+20:42:48	BroDvd rolled a 5, and moved to Vermont Avenue
+20:42:48	BroDvd owes Don $6 for rent
+20:42:51	Lindsay got $200 for passing Go
+20:42:53	Lindsay rolled a 10, and moved to Chance
+20:42:53	Lindsay got a Chance card that said Pay Poor Tax of $15
+20:42:53	Lindsay rolled doubles, and gets to roll again
+20:42:56	Lindsay rolled a 8, and moved to Pennsylvania Railroad
+20:42:56	Anne Marie owns 1 railroad(s) so the total rent is 50
+20:42:56	Lindsay owes Anne Marie $50 for rent
+20:42:57	Anne Marie rolled a 5, and moved to Reading Railroad
+20:42:58	Lindsay owns 2 railroad(s) so the total rent is 100
+20:42:58	Anne Marie owes Lindsay $100 for rent
+20:42:59	Don rolled a 3, and moved to Chance
+20:42:59	Don got a Chance card that said Your Building and Loan Matures Collect $150
+20:43:02	BroDvd rolled a 3, and moved to St. Charles Place
+20:43:02	BroDvd owes Lindsay $10 for rent
+20:43:08	Lindsay rolled a 7, and moved to Chance
+20:43:08	Lindsay got a Chance card that said Advance to St. Charles Place
+20:43:08	Lindsay got $200 for passing Go
+20:43:15	Lindsay owns the property
+20:43:19	Anne Marie rolled a 9, and moved to Virginia Avenue
+20:43:19	Anne Marie can purchase Virginia Avenue for $160
+20:43:19	Anne Marie purchased Virginia Avenue for $160
+20:43:23	Don landed on the 'Go to Jail' space
+20:43:23	Don rolled a 8, and moved to Jail
+20:45:34	BroDvd rolled a 12, and moved to Indiana Avenue
+20:45:35	BroDvd owes Don $18 for rent
+20:45:37	BroDvd rolled doubles, and gets to roll again
+20:45:43	BroDvd rolled a 9, and moved to North Carolina Avenue
+20:45:43	BroDvd can purchase North Carolina Avenue for $300
+20:45:45	BroDvd purchased North Carolina Avenue for $300
+20:45:46	Lindsay rolled a 3, and moved to Virginia Avenue
+20:45:46	Lindsay owes Anne Marie $12 for rent
+20:45:49	Anne Marie rolled a 6, and moved to Free Parking
+20:45:49	Anne Marie gets $515 for landing on Free Parking
+20:45:49	Anne Marie rolled doubles, and gets to roll again
+20:45:51	Anne Marie rolled a 5, and moved to B&O Railroad
+20:45:51	Lindsay owns 2 railroad(s) so the total rent is 100
+20:45:51	Anne Marie owes Lindsay $100 for rent
+20:45:51	Don paid $50 to get out of jail
+20:45:53	Don rolled a 6, and moved to St. James Place
+20:45:54	Don can purchase St. James Place for $180
+20:45:59	BroDvd rolled a 3, and moved to Short Line
+20:45:59	Nobody owns this railroad
+20:45:59	BroDvd can purchase Short Line for $200
+20:46:01	BroDvd purchased Short Line for $200
+20:46:04	Lindsay rolled a 8, and moved to Chance
+20:46:04	Lindsay got a Chance card that said Advance to Illinois Avenue
+20:46:05	Lindsay owns the property
+20:46:05	Lindsay rolled doubles, and gets to roll again
+13:20:20	Lindsay rolled a 9, and moved to Boardwalk
+13:20:20	Lindsay owes BroDvd $50 for rent
+13:20:22	Anne Marie suggested the following trade to BroDvd: Anne Marie is offering 1 properties (Virginia Avenue) and $0 and Anne Marie wants to receive 1 properties (Baltic Avenue) and $0
+13:20:33	BroDvd agreed to the trade
+13:20:35	Anne Marie rolled a 6, and moved to Pacific Avenue
+13:20:36	Anne Marie owes BroDvd $26 for rent
+13:20:41	Don rolled a 11, and moved to Ventor Avenue
+13:20:41	Don owes Anne Marie $22 for rent
+13:20:52	BroDvd got $200 for passing Go
+13:20:53	BroDvd rolled a 9, and moved to Income Tax
+13:20:54	Ten percent of BroDvd's income is 201 so they owe $200
+13:20:57	Lindsay got $200 for passing Go
+13:20:58	Lindsay rolled a 5, and moved to Income Tax
+13:20:58	Ten percent of Lindsay's income is 167 so they owe that
+13:20:58	Anne Marie built 1 buildings on Mediterranean Avenue for a total of 1 on the site
+13:20:58	Anne Marie built 1 buildings on Baltic Avenue for a total of 1 on the site
+13:20:58	Anne Marie built 1 buildings on Mediterranean Avenue for a total of 2 on the site
+13:20:58	Anne Marie built 1 buildings on Baltic Avenue for a total of 2 on the site
+13:20:58	Anne Marie built 1 buildings on Mediterranean Avenue for a total of 3 on the site
+13:20:58	Anne Marie built 1 buildings on Baltic Avenue for a total of 3 on the site
+13:20:58	Anne Marie built 1 buildings on Mediterranean Avenue for a total of 4 on the site
+13:20:58	Anne Marie built 1 buildings on Baltic Avenue for a total of 4 on the site
+13:20:58	Anne Marie built 1 buildings on Mediterranean Avenue for a total of 5 on the site
+13:20:58	Anne Marie built 1 buildings on Baltic Avenue for a total of 5 on the site
+13:20:59	Anne Marie got $200 for passing Go
+13:21:02	Anne Marie rolled a 10, and moved to Mediterranean Avenue
+13:21:02	Anne Marie owns the property
+13:21:02	Anne Marie rolled doubles, and gets to roll again
+13:21:05	Anne Marie rolled a 11, and moved to Electric Company
+13:21:05	Don owns 1 utility(s) and Anne Marie rolled a 11 so the total rent is 44
+13:21:05	Anne Marie owes Don $44 for rent
+13:21:07	Don rolled a 6, and moved to Community Chest
+13:21:07	Don got a Community Chest card that said Get Out of Jail Free
+13:21:10	BroDvd rolled a 3, and moved to Chance
+13:21:10	BroDvd got a Chance card that said Bank Pays you Dividend of $50
+13:21:15	Lindsay rolled a 3, and moved to Chance
+13:21:15	Lindsay got a Chance card that said Go Directly to Jail
+13:26:12	Lindsay rolled a 9, and moved to St. James Place
+13:26:12	Lindsay can purchase St. James Place for $180
+13:26:12	Lindsay purchased St. James Place for $180
+13:26:14	Anne Marie rolled a 6, and moved to Tennessee Avenue
+13:26:15	Anne Marie owes Lindsay $14 for rent
+13:26:15	Don got $200 for passing Go
+13:26:17	Don rolled a 11, and moved to Income Tax
+13:26:18	Ten percent of Don's income is 175 so they owe that
+13:26:22	BroDvd rolled a 9, and moved to St. James Place
+13:26:22	BroDvd owes Lindsay $14 for rent
+13:26:25	Lindsay suggested the following trade to Don: Lindsay is offering 1 properties (Illinois Avenue) and $0 and Lindsay wants to receive 1 properties (New York Avenue) and $0
+13:26:25	Don did not accept the trade
+13:26:26	Lindsay rolled a 6, and moved to Chance
+13:26:27	Lindsay got a Chance card that said Pay Poor Tax of $15
+13:26:30	Anne Marie rolled a 10, and moved to Water Works
+13:26:30	BroDvd owns 1 utility(s) and Anne Marie rolled a 10 so the total rent is 40
+13:26:30	Anne Marie owes BroDvd $40 for rent
+13:26:33	Don rolled a 6, and moved to Just Visiting
+13:26:36	BroDvd rolled a 5, and moved to Kentucky Avenue
+13:26:37	BroDvd owns the property
+13:26:38	Lindsay rolled a 5, and moved to Ventor Avenue
+13:26:38	Lindsay owes Anne Marie $22 for rent
+13:26:40	Anne Marie rolled a 3, and moved to Pacific Avenue
+13:26:40	Anne Marie owes BroDvd $26 for rent
+13:26:45	Don rolled a 7, and moved to Community Chest
+13:26:45	Don got a Community Chest card that said Collect $50 from Every Player for opening night seats
+13:55:50	BroDvd rolled a 9, and moved to Boardwalk
+13:55:50	BroDvd owns the property
+13:55:53	Lindsay rolled a 6, and moved to Community Chest
+13:55:53	Lindsay got a Community Chest card that said You are assessed for Street Repairs $40/house $115/hotel
+13:55:57	Anne Marie rolled a 8, and moved to Boardwalk
+13:55:57	Anne Marie owes BroDvd $50 for rent
+13:56:01	Don rolled a 7, and moved to Illinois Avenue
+13:56:01	Don owes Lindsay $20 for rent
+13:56:13	BroDvd got $200 for passing Go
+13:56:14	BroDvd rolled a 6, and moved to Reading Railroad
+13:56:14	Lindsay owns 2 railroad(s) so the total rent is 100
+13:56:14	BroDvd owes Lindsay $100 for rent
+13:56:16	Lindsay got $200 for passing Go
+13:56:18	Lindsay rolled a 9, and moved to Community Chest
+13:56:19	Lindsay got a Community Chest card that said Advance to Go
+13:56:19	Lindsay got $200 for passing Go
+13:56:27	Anne Marie got $200 for passing Go
+13:56:28	Anne Marie rolled a 6, and moved to Reading Railroad
+13:56:28	Lindsay owns 2 railroad(s) so the total rent is 100
+13:56:28	Anne Marie owes Lindsay $100 for rent
+13:56:30	Don rolled a 5, and moved to Marvin Gardens
+13:56:30	Don owes Anne Marie $24 for rent
+13:56:34	BroDvd rolled a 5, and moved to Just Visiting
+13:56:34	Lindsay suggested the following trade to BroDvd: Lindsay is offering 0 properties () and $800 and Lindsay wants to receive 1 properties (Boardwalk) and $0
+13:56:45	BroDvd did not accept the trade
+13:56:46	Lindsay rolled a 3, and moved to Baltic Avenue
+13:56:46	Lindsay owes Anne Marie $450 for rent
+13:56:49	Anne Marie rolled a 7, and moved to Electric Company
+13:56:49	Don owns 1 utility(s) and Anne Marie rolled a 7 so the total rent is 28
+13:56:49	Anne Marie owes Don $28 for rent
+13:56:51	Don rolled a 4, and moved to Community Chest
+13:56:52	Don got a Community Chest card that said Pay School Tax of $150
+13:57:03	BroDvd rolled a 10, and moved to Free Parking
+13:57:04	BroDvd gets $1207 for landing on Free Parking
+13:57:07	Lindsay suggested the following trade to Don: Lindsay is offering 1 properties (Illinois Avenue) and $0 and Lindsay wants to receive 1 properties (New York Avenue) and $0
+13:57:07	Don agreed to the trade
+13:57:09	Lindsay rolled a 12, and moved to Pennsylvania Railroad
+13:57:10	Anne Marie owns 1 railroad(s) so the total rent is 50
+13:57:10	Lindsay owes Anne Marie $50 for rent
+13:57:10	Lindsay rolled doubles, and gets to roll again
+13:57:10	Lindsay built 1 buildings on St. James Place for a total of 1 on the site
+13:57:10	Lindsay built 1 buildings on Tennessee Avenue for a total of 1 on the site
+13:57:10	Lindsay built 1 buildings on New York Avenue for a total of 1 on the site
+13:57:10	Lindsay built 1 buildings on St. James Place for a total of 2 on the site
+13:57:12	Lindsay rolled a 9, and moved to Illinois Avenue
+13:57:13	Lindsay owes Don $20 for rent
+13:57:14	Anne Marie rolled a 3, and moved to Pennsylvania Railroad
+13:57:14	Anne Marie owns 1 railroad(s) so the total rent is 50
+13:57:14	Anne Marie owns the property
+13:57:15	Don suggested the following trade to BroDvd: Don is offering 0 properties () and $440 and Don wants to receive 1 properties (Kentucky Avenue) and $0
+13:57:20	BroDvd did not accept the trade
+13:57:22	Don rolled a 6, and moved to Boardwalk
+13:57:23	Don owes BroDvd $50 for rent
+13:57:25	Don rolled doubles, and gets to roll again
+13:57:25	Don got $200 for passing Go
+13:57:26	Don rolled a 5, and moved to Income Tax
+13:57:27	Ten percent of Don's income is 175 so they owe that
+13:59:32	BroDvd suggested the following trade to Lindsay: BroDvd is offering 0 properties () and $500 and BroDvd wants to receive 1 properties (Park Place) and $0
+13:59:38	Lindsay agreed to the trade
+13:59:53	BroDvd rolled a 6, and moved to Atlantic Avenue
+13:59:53	BroDvd can purchase Atlantic Avenue for $260
+13:59:56	BroDvd purchased Atlantic Avenue for $260
+13:59:56	Lindsay built 1 buildings on St. James Place for a total of 3 on the site
+13:59:56	Lindsay built 1 buildings on Tennessee Avenue for a total of 2 on the site
+13:59:56	Lindsay built 1 buildings on New York Avenue for a total of 2 on the site
+13:59:56	Lindsay built 1 buildings on St. James Place for a total of 4 on the site
+13:59:56	Lindsay built 1 buildings on Tennessee Avenue for a total of 3 on the site
+13:59:57	Lindsay rolled a 3, and moved to Ventor Avenue
+13:59:58	Lindsay owes Anne Marie $22 for rent
+13:59:58	Anne Marie suggested the following trade to BroDvd: Anne Marie is offering 0 properties () and $520 and Anne Marie wants to receive 1 properties (Atlantic Avenue) and $0
+14:00:03	BroDvd did not accept the trade
+14:00:05	Anne Marie rolled a 5, and moved to Free Parking
+14:00:05	Anne Marie gets $675 for landing on Free Parking
+14:00:08	Don rolled a 7, and moved to St. Charles Place
+14:00:08	Don owes Lindsay $10 for rent
+14:00:12	BroDvd rolled a 10, and moved to Chance
+14:00:12	BroDvd got a Chance card that said Elected Chairman of Board Pay $50
+14:00:16	Lindsay rolled a 4, and moved to Pacific Avenue
+14:00:17	Lindsay owes BroDvd $26 for rent
+14:00:18	Lindsay rolled doubles, and gets to roll again
+14:00:20	Lindsay rolled a 4, and moved to Short Line
+14:00:20	BroDvd owns 1 railroad(s) so the total rent is 50
+14:00:20	Lindsay owes BroDvd $50 for rent
+14:00:25	Anne Marie rolled a 7, and moved to Ventor Avenue
+14:00:25	Anne Marie owns the property
+14:00:27	Don rolled a 4, and moved to Pennsylvania Railroad
+14:00:28	Anne Marie owns 1 railroad(s) so the total rent is 50
+14:00:28	Don owes Anne Marie $50 for rent
+14:00:28	Don rolled doubles, and gets to roll again
+14:00:30	Don rolled a 5, and moved to Free Parking
+14:00:30	Don gets $550 for landing on Free Parking
+14:00:43	BroDvd got $200 for passing Go
+14:00:44	BroDvd rolled a 6, and moved to Community Chest
+14:00:44	BroDvd got a Community Chest card that said Doctor's Fee Pay $50
+14:00:49	Lindsay got $200 for passing Go
+14:00:52	Lindsay rolled a 10, and moved to Reading Railroad
+14:00:52	Lindsay owns 2 railroad(s) so the total rent is 100
+14:00:52	Lindsay owns the property
+14:00:55	Anne Marie rolled a 7, and moved to Pennsylvania Avenue
+14:00:55	Anne Marie owes BroDvd $28 for rent
+14:00:59	Don rolled a 7, and moved to Ventor Avenue
+14:01:00	Don owes Anne Marie $22 for rent
+14:03:06	BroDvd suggested the following trade to Lindsay: BroDvd is offering 0 properties () and $500 and BroDvd wants to receive 1 properties (St. Charles Place) and $0
+14:03:10	Lindsay agreed to the trade
+14:03:20	BroDvd rolled a 9, and moved to St. Charles Place
+14:03:20	BroDvd owns the property
+14:03:21	Lindsay built 1 buildings on St. James Place for a total of 5 on the site
+14:03:21	Lindsay built 1 buildings on Tennessee Avenue for a total of 4 on the site
+14:03:21	Lindsay built 1 buildings on New York Avenue for a total of 3 on the site
+14:03:21	Lindsay built 1 buildings on Tennessee Avenue for a total of 5 on the site
+14:03:21	Lindsay built 1 buildings on New York Avenue for a total of 4 on the site
+14:03:21	Lindsay built 1 buildings on New York Avenue for a total of 5 on the site
+14:03:23	Lindsay rolled a 7, and moved to Electric Company
+14:03:23	Don owns 1 utility(s) and Lindsay rolled a 7 so the total rent is 28
+14:03:23	Lindsay owes Don $28 for rent
+14:03:25	Anne Marie got $200 for passing Go
+14:03:27	Anne Marie rolled a 6, and moved to Go
+14:03:29	Don rolled a 4, and moved to Pacific Avenue
+14:03:30	Don owes BroDvd $26 for rent
+14:03:31	Don rolled doubles, and gets to roll again
+14:03:31	Don suggested the following trade to BroDvd: Don is offering 0 properties () and $440 and Don wants to receive 1 properties (Kentucky Avenue) and $0
+14:03:41	BroDvd did not accept the trade
+14:03:41	Don got $200 for passing Go
+14:03:44	Don rolled a 9, and moved to Go
+14:08:14	BroDvd rolled a 9, and moved to Free Parking
+14:08:14	BroDvd gets $550 for landing on Free Parking
+14:08:18	Lindsay rolled a 2, and moved to Virginia Avenue
+14:08:18	Lindsay owes BroDvd $12 for rent
+14:08:20	Lindsay rolled doubles, and gets to roll again
+14:08:22	Lindsay rolled a 3, and moved to Community Chest
+14:08:22	Lindsay got a Community Chest card that said Receive for Services $25
+14:08:23	Anne Marie suggested the following trade to BroDvd: Anne Marie is offering 0 properties () and $520 and Anne Marie wants to receive 1 properties (Atlantic Avenue) and $0
+14:08:25	BroDvd did not accept the trade
+14:08:27	Anne Marie rolled a 8, and moved to Vermont Avenue
+14:08:28	Anne Marie owes Don $6 for rent
+14:08:29	Don rolled a 5, and moved to Reading Railroad
+14:08:30	Lindsay owns 2 railroad(s) so the total rent is 100
+14:08:30	Don owes Lindsay $100 for rent
+14:12:08	BroDvd rolled a 8, and moved to Water Works
+14:12:08	BroDvd owns 1 utility(s) and BroDvd rolled a 8 so the total rent is 32
+14:12:08	BroDvd owns the property
+14:12:10	Lindsay rolled a 5, and moved to Chance
+14:12:10	Lindsay got a Chance card that said Advance Token to Boardwalk
+14:12:13	Lindsay owes BroDvd $50 for rent
+14:12:16	Anne Marie rolled a 3, and moved to St. Charles Place
+14:12:17	Anne Marie owes BroDvd $10 for rent
+14:12:21	Don rolled a 9, and moved to Virginia Avenue
+14:12:21	Don owes BroDvd $12 for rent
+14:16:06	BroDvd built 3 buildings on Virginia Avenue for a total of 3 on the site
+14:16:37	BroDvd rolled a 5, and moved to Community Chest
+14:16:37	BroDvd got a Community Chest card that said Second Prize Beauty Contest Collect $10
+14:16:41	Lindsay got $200 for passing Go
+14:16:43	Lindsay rolled a 8, and moved to Chance
+14:16:43	Lindsay got a Chance card that said Advance to Nearest Utility
+14:16:44	Don owns 1 utility(s) and Lindsay rolled a 8 so the total rent is 32
+14:16:44	Lindsay owes Don $32 for rent
+14:16:46	Anne Marie rolled a 4, and moved to Pennsylvania Railroad
+14:16:46	Anne Marie owns 1 railroad(s) so the total rent is 50
+14:16:46	Anne Marie owns the property
+14:16:46	Anne Marie rolled doubles, and gets to roll again
+14:16:49	Anne Marie rolled a 7, and moved to Chance
+14:16:49	Anne Marie got a Chance card that said Take a Ride on the Reading Railroad
+14:16:49	Anne Marie got $200 for passing Go
+14:16:54	Lindsay owns 2 railroad(s) so the total rent is 100
+14:16:54	Anne Marie owes Lindsay $100 for rent
+14:16:55	Don rolled a 4, and moved to Tennessee Avenue
+14:16:55	Don owes Lindsay $950 for rent
+14:17:19	BroDvd built 2 buildings on States Avenue for a total of 2 on the site
+14:17:30	BroDvd built 2 buildings on St. Charles Place for a total of 2 on the site
+14:18:10	BroDvd rolled a 3, and moved to Chance
+14:18:11	BroDvd got a Chance card that said Advance to nearest Railroad
+14:18:14	BroDvd got $200 for passing Go
+14:18:16	Lindsay owns 2 railroad(s) so the total rent is 100
+14:18:16	BroDvd owes Lindsay $100 for rent
+14:18:22	Lindsay rolled a 10, and moved to Chance
+14:18:23	Lindsay got a Chance card that said Get Out of Jail Free
+14:18:26	Anne Marie rolled a 7, and moved to Electric Company
+14:18:26	Don owns 1 utility(s) and Anne Marie rolled a 7 so the total rent is 28
+14:18:26	Anne Marie owes Don $28 for rent
+14:18:28	Don rolled a 6, and moved to Illinois Avenue
+14:18:28	Don owns the property
+14:18:28	Don rolled doubles, and gets to roll again
+14:18:30	Don rolled a 8, and moved to North Carolina Avenue
+14:18:30	Don owes BroDvd $26 for rent
+14:18:54	BroDvd built 1 buildings on Boardwalk for a total of 1 on the site
+14:18:58	BroDvd rolled a 6, and moved to St. Charles Place
+14:18:58	BroDvd owns the property
+14:19:01	Lindsay rolled a 10, and moved to North Carolina Avenue
+14:19:01	Lindsay owes BroDvd $26 for rent
+14:19:03	Lindsay rolled doubles, and gets to roll again
+14:19:07	Lindsay rolled a 7, and moved to Boardwalk
+14:19:07	Lindsay owes BroDvd $200 for rent
+14:19:12	Anne Marie rolled a 8, and moved to Free Parking
+14:19:12	Anne Marie gets $500 for landing on Free Parking
+14:19:12	Don suggested the following trade to BroDvd: Don is offering 0 properties () and $440 and Don wants to receive 1 properties (Kentucky Avenue) and $0
+14:19:37	BroDvd did not accept the trade
+14:19:38	Don got $200 for passing Go
+14:19:41	Don rolled a 10, and moved to Community Chest
+14:19:41	Don got a Community Chest card that said Bank Error In Your Favor (Collect $200)
+14:20:14	BroDvd built 1 buildings on Pacific Avenue for a total of 1 on the site
+14:20:21	BroDvd rolled a 5, and moved to St. James Place
+14:20:21	BroDvd owes Lindsay $950 for rent
+14:20:25	Lindsay got $200 for passing Go
+14:20:26	Lindsay rolled a 3, and moved to Community Chest
+14:20:26	Lindsay got a Community Chest card that said From Sale of Stock You Get $45
+14:20:27	Anne Marie suggested the following trade to BroDvd: Anne Marie is offering 0 properties () and $520 and Anne Marie wants to receive 1 properties (Atlantic Avenue) and $0
+14:20:53	BroDvd did not accept the trade
+14:20:57	Anne Marie rolled a 12, and moved to North Carolina Avenue
+14:20:57	Anne Marie owes BroDvd $26 for rent
+14:20:58	Anne Marie rolled doubles, and gets to roll again
+14:21:01	Anne Marie rolled a 5, and moved to Park Place
+14:21:01	Anne Marie owes BroDvd $35 for rent
+14:21:04	Don rolled a 3, and moved to Reading Railroad
+14:21:04	Lindsay owns 2 railroad(s) so the total rent is 100
+14:21:04	Don owes Lindsay $100 for rent
+14:21:15	BroDvd rolled a 4, and moved to Free Parking
+14:21:16	BroDvd gets $500 for landing on Free Parking
+14:21:20	Lindsay rolled a 7, and moved to Connecticut Avenue
+14:21:21	Lindsay can purchase Connecticut Avenue for $120
+14:21:21	Lindsay purchased Connecticut Avenue for $120
+14:21:22	Anne Marie got $200 for passing Go
+14:21:23	Anne Marie rolled a 8, and moved to Reading Railroad
+14:21:24	Lindsay owns 2 railroad(s) so the total rent is 100
+14:21:24	Anne Marie owes Lindsay $100 for rent
+14:21:25	Don rolled a 3, and moved to Vermont Avenue
+14:21:26	Don owns the property
+14:23:42	BroDvd suggested the following trade to Anne Marie: BroDvd is offering 1 properties (Atlantic Avenue) and $0 and BroDvd wants to receive 1 properties (Pennsylvania Railroad) and $500 and a 'Get out of Jail Free' card
+14:23:48	Anne Marie did not accept the trade
+14:23:59	BroDvd rolled a 9, and moved to Marvin Gardens
+14:23:59	BroDvd owes Anne Marie $24 for rent
+14:24:01	Lindsay suggested the following trade to Don: Lindsay is offering 0 properties () and $200 and Lindsay wants to receive 1 properties (Vermont Avenue) and $0
+14:24:01	Don agreed to the trade
+14:24:03	Lindsay rolled a 7, and moved to St. James Place
+14:24:04	Lindsay owns the property
+14:24:06	Anne Marie rolled a 8, and moved to States Avenue
+14:24:06	Anne Marie owes BroDvd $150 for rent
+14:24:13	Don rolled a 11, and moved to New York Avenue
+14:24:13	Don owes Lindsay $1000 for rent
+14:24:30	BroDvd built 1 buildings on Park Place for a total of 1 on the site
+14:24:35	BroDvd rolled a 8, and moved to Park Place
+14:24:35	BroDvd owns the property
+14:24:36	Lindsay built 1 buildings on Oriental Avenue for a total of 1 on the site
+14:24:36	Lindsay built 1 buildings on Vermont Avenue for a total of 1 on the site
+14:24:36	Lindsay built 1 buildings on Connecticut Avenue for a total of 1 on the site
+14:24:36	Lindsay built 1 buildings on Oriental Avenue for a total of 2 on the site
+14:24:36	Lindsay built 1 buildings on Vermont Avenue for a total of 2 on the site
+14:24:36	Lindsay built 1 buildings on Connecticut Avenue for a total of 2 on the site
+14:24:36	Lindsay built 1 buildings on Oriental Avenue for a total of 3 on the site
+14:24:36	Lindsay built 1 buildings on Vermont Avenue for a total of 3 on the site
+14:24:36	Lindsay built 1 buildings on Connecticut Avenue for a total of 3 on the site
+14:24:36	Lindsay built 1 buildings on Oriental Avenue for a total of 4 on the site
+14:24:36	Lindsay built 1 buildings on Vermont Avenue for a total of 4 on the site
+14:24:36	Lindsay built 1 buildings on Connecticut Avenue for a total of 4 on the site
+14:24:36	Lindsay built 1 buildings on Oriental Avenue for a total of 5 on the site
+14:24:36	Lindsay built 1 buildings on Vermont Avenue for a total of 5 on the site
+14:24:36	Lindsay built 1 buildings on Connecticut Avenue for a total of 5 on the site
+14:24:38	Lindsay rolled a 6, and moved to Chance
+14:24:38	Lindsay got a Chance card that said Go Back 3 Spaces
+14:24:39	Lindsay owns the property
+14:24:42	Anne Marie rolled a 9, and moved to Chance
+14:24:42	Anne Marie got a Chance card that said Make General Repairs on Your Property $25/house $100/hotel
+14:24:44	Don rolled a 6, and moved to B&O Railroad
+14:24:44	Lindsay owns 2 railroad(s) so the total rent is 100
+14:24:44	Don owes Lindsay $100 for rent
+14:24:47	BroDvd got $200 for passing Go
+14:24:48	BroDvd rolled a 7, and moved to Income Tax
+14:24:48	Ten percent of BroDvd's income is 224 so they owe $200
+14:24:54	Lindsay rolled a 8, and moved to Ventor Avenue
+14:24:55	Lindsay owes Anne Marie $22 for rent
+14:24:57	Anne Marie rolled a 9, and moved to Pacific Avenue
+14:24:58	Anne Marie owes BroDvd $130 for rent
+14:25:02	Don rolled a 4, and moved to Marvin Gardens
+14:25:02	Don owes Anne Marie $24 for rent
+14:25:09	BroDvd rolled a 10, and moved to Virginia Avenue
+14:25:10	BroDvd owns the property
