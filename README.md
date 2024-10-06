@@ -3,7 +3,7 @@ This is a monopoly simulator in VBA (Microsoft Office 2007)
 
 NOTE: This repository is a fork of https://github.com/OkayAndrew/ExcelMonopoly , this project corrects the bugs and maintain the original repository.
 # Installing 
-Download the folder with the file `.xlsm`  and  `.txt` , so open the file `.xlsm` .
+Download the folder with the files `monopoly.xlsm`  and  `.txt` , so open the file `monopoly.xlsm` .
 # Play
 The screenshot swows a match of the monopoly simulator, is quite same to the official game. (a Simply tutorial will be share about here)
 
