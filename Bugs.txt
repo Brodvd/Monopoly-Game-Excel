@@ -1,5 +1,5 @@
 # Corretti
- * Bug nella logica del tasto "build" primo if (monopolies=0)
+ * Versione 1.0.1: Bug nella logica del tasto "build" primo if (monopolies=0) 
 # Da risolvere
  * Bug della cassa "chance" per andare direttamente in prigione, probabilmente stesso di quello risolto sopra
  * Bug andando sulla casella in alto a destra "go to jail", "errore di runtime 1004, non possibile trovare drawingobjects per sheets"
